@@ -83,17 +83,8 @@ Currently exploring:
 
 ---
 
-### 🐍 Watch My Contributions Come Alive
-<p align="center">
-  <img src="https://github.com/siyam-exe/siyam-exe/blob/output/snake.svg#gh-light-mode-only" alt="snake light" />
-  <img src="https://github.com/siyam-exe/siyam-exe/blob/output/snake-dark.svg#gh-dark-mode-only" alt="snake dark" />
-</p>
-
-
----
-
 ### ⚡ Fun Fact
-> “There are 10 types of people in the world — those who understand binary and those who don’t.” 🤓
+> “Ketchup was once sold as medicine.” 
 
 ---
 
