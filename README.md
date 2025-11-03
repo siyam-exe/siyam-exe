@@ -85,8 +85,10 @@ Currently exploring:
 
 ### 🐍 Watch My Contributions Come Alive
 <p align="center">
-  <img src="https://raw.githubusercontent.com/siyam-exe/siyam-exe/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/siyam-exe/siyam-exe/blob/output/snake.svg#gh-light-mode-only" alt="snake light" />
+  <img src="https://github.com/siyam-exe/siyam-exe/blob/output/snake-dark.svg#gh-dark-mode-only" alt="snake dark" />
 </p>
+
 
 ---
 
